@@ -1,4 +1,4 @@
-<p align="left"> <img title="Alfresco AQuA" src="v1_a1.png" alt="Alfresco AQuA - Keep your content AUTOMAGICALLY organized"></p>
+<p align="left"> <img title="Alfresco AQuA" src="v1.120.png" alt="Alfresco AQuA - Keep your content AUTOMAGICALLY organized"></p>
    
 # Alfresco AQuA
 Simplifying Alfresco UX with Enterprise prod-ready features (ACA/ADF powered)
