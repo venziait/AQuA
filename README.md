@@ -1,7 +1,7 @@
 <p align="left"> <img title="Alfresco AQuA" src="v1.120.png" alt="Alfresco AQuA - Keep your content AUTOMAGICALLY organized"></p>
 Simplifying Alfresco UX with Enterprise prod-ready features (ACA/ADF powered)
 
-## Introduction
+# Alfresco AQuA Introduction
 
 Multidevice Smart Workspace for content (ECM) and processes (BPM) AI assisted. Helping with your Digital Transformation process and strategy. Supported by [Venzia IT](https://venzia.es).</br>
 Alfresco [AQuA](https://aqua.venzia.es) is built using [Alfresco Application Development Framework (ADF)](https://github.com/Alfresco/alfresco-ng2-components) components and was generated with [Angular CLI](https://github.com/angular/angular-cli).
@@ -25,7 +25,7 @@ Alfresco [AQuA](https://aqua.venzia.es) is built using [Alfresco Application Dev
 
 Please refer to the [release notes](https://github.com/venziait/aqua/releases) for details of all changes.
 
-#### High level feature themes planned for 2020
+## High level feature themes planned for 2020
 
 * Collaboration & File Management
   * Google Docs edition
