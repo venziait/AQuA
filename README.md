@@ -1,34 +1,39 @@
-<p align="left"> <img title="Alfresco" src="alfresco.png" alt="Alfresco - Simply a better way to create amazing digital experiences"></p>
+<p align="left"> <img title="Alfresco AQuA" src="v1_a1.png" alt="Alfresco AQuA - Keep your content AUTOMAGICALLY organized"></p>
+   
+# Alfresco AQuA
+Simplifying Alfresco UX with Enterprise prod-ready features (ACA/ADF powered)
 
-# Alfresco Content Application
+## Introduction
+Multidevice Smart Workspace for content and processes. Helping with your Digital Transformation process and strategy. Supported by [Venzia IT](https://venzia.es).
+Alfresco [AQuA](https://aqua.venzia.es) is built using [Alfresco Application Development Framework (ADF)](https://github.com/Alfresco/alfresco-ng2-components) components and was generated with [Angular CLI](https://github.com/angular/angular-cli).
+
+#### Features added in the latest release
+* Companies/Departments/Sites Management and selector
+  * User and content isolation
+  * Entity selection for users that belongs to several entities
+* Highligthed search terms in results and preview
+* Datarooms feature to share folder with external users quickly.
+
+## Available Features
+
+| Feature                        | Description                                                        |
+|--------------------------------|--------------------------------------------------------------------|
+| My Tasks | Manage Alfresco Activiti embeded or standalone Tasks (available for Flowable BPM too)|
+| Chatbot | Talk to Alfresco to execute your daily common actions as search, share or assign a task|
+| Datalinks | Link your database information with Alfresco content easly, to enhance search capabilities or provide a two ways integration method.|
+| Dashboard | Summary page about your repository content.
+
+Please refer to the [release notes](https://github.com/venziait/aqua/releases) for details of all changes.
+
+#### High level feature themes planned for 2020
+* Collaboration & File Management
+  * Google Docs edition
+  * Digital Signature (web based)
+
+# Alfresco Content Application (ACA)
 
 Testing Supported By<br/>
 <img width="160" src="docs/images/Browserstack-logo.svg" alt="BrowserStack"/>
-
-## Introduction
-
-The Alfresco Content Application a content management application built using
-[Alfresco Application Development Framework (ADF)](https://github.com/Alfresco/alfresco-ng2-components) components
-and was generated with [Angular CLI](https://github.com/angular/angular-cli).
-
-### Who is this application for
-
-The Content Application is a streamlined experience for end users on top of Alfresco Content Services, focused on file management within the Alfresco content repository. It provides developers with an easily extendable environment for lightning fast custom application development by providing safe ways to inject custom controls, viewer components, pages and plug-ins without upgrade concerns.
-
-### Where to get help
-
-There are a number of resources available to help get you started with the Content App and the ADF:
-
-- [Gitter Chat](https://gitter.im/Alfresco/content-app) - Developer community chat
-- [Content App Documentation](https://alfresco-content-app.netlify.com/) - Developer documentation
-- [Alfresco ADF Documentation](https://www.alfresco.com/abn/adf/) - Application Development Framework documentation
-- [Alfresco Community Portal](https://community.alfresco.com/) - Developer Community Forums
-- [Alfresco Customer Support](https://support.alfresco.com/) - Customer support for the Alfresco Digital Workspace
-
-### Raising issues and feature requests
-
-Issues can be raised in [GitHub] or in the Alfresco JIRA project.
-Please include a clear description, steps to reproduce and screenshots where appropriate. All issues will be reviewed; bugs will be categorized if reproducible and enhancement/feature suggestions will be considered against existing priorities if the use case serves a general-purpose need.
 
 #### What's new in the latest release
 
